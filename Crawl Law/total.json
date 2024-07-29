@@ -1,0 +1,131 @@
+[
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/doanh-nghiep",
+        "max_page": "310",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/van hoa xa hoi"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/lao-dong-tien-luong",
+        "max_page": "462",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/bao hiem"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/bat-dong-san",
+        "max_page": "172",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/bo may hanh chinh"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/vi-pham-hanh-chinh",
+        "max_page": "377",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/thuong mai"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/bao-hiem",
+        "max_page": "191",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/so huu tri tue"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/quyen-dan-su",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/xay dung do thi"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/van-hoa-xa-hoi",
+        "max_page": "398",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/the thao y te"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/thuong-mai",
+        "max_page": "301",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/dich vu phap ly"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/trach-nhiem-hinh-su",
+        "max_page": "190",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/vi pham hanh chinh"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/xay-dung-do-thi",
+        "max_page": "151",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/linh vuc khac"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/chung-khoan",
+        "max_page": "69",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/thu tuc to tung"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/ke-toan-kiem-toan",
+        "max_page": "115",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/ke toan kiem toan"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/thue-phi-le-phi",
+        "max_page": "216",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/thue phi le phi"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/xuat-nhap-khau",
+        "max_page": "102",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/tai chinh nha nuoc"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/tien-te-ngan-hang",
+        "max_page": "139",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/cong nghe thong tin"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/dau-tu",
+        "max_page": "122",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/giao duc"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/so-huu-tri-tue",
+        "max_page": "39",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/giao thong van tai"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/thu-tuc-to-tung",
+        "max_page": "206",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/trach nhiem hinh su"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/tai-chinh-nha-nuoc",
+        "max_page": "329",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/chung khoan"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/the-thao-y-te",
+        "max_page": "314",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/lao dong tien luong"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/dich-vu-phap-ly",
+        "max_page": "71",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/xuat nhap khau"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/cong-nghe-thong-tin",
+        "max_page": "222",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/bat dong san"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/giao-duc",
+        "max_page": "332",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/quyen dan su"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/giao-thong-van-tai",
+        "max_page": "315",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/doanh nghiep"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/bo-may-hanh-chinh",
+        "max_page": "1100",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/tien te ngan hang"
+    },
+    {
+        "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/linh-vuc-khac",
+        "max_page": "77",
+        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/dau tu"
+    }
+]
