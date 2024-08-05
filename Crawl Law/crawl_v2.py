@@ -4,7 +4,7 @@ from tqdm import tqdm
 import os
 import json
 
-# list_folder = json.load(open('/mnt/ngoclt/Crawl_data/total.json', 'r'))
+# list_folder = json.load(open('/mnt/tuannb/Crawl_data/total.json', 'r'))
 
 
 # def get_link_crawl_v2(name_domain, start_page, end_page, path_folder):
@@ -40,7 +40,7 @@ import json
 list_folder =      {
         "link": "https://thuvienphapluat.vn/phap-luat/phap-luat/doanh-nghiep",
         "max_page": "310",
-        "folder": "/mnt/ngoclt/Crawl_data/Split Phap Luat/van hoa xa hoi"
+        "folder": "/mnt/tuannb/Crawl_data/Split Phap Luat/van hoa xa hoi"
 }
 
 # for item in range(11, 22):
@@ -90,7 +90,7 @@ with open(list_folder['folder'] + '/data_domain.json', 'w', encoding='utf-8') as
 
 
 
-# list_folder = glob('/mnt/ngoclt/Crawl_data/Name_domain/*')
+# list_folder = glob('/mnt/tuannb/Crawl_data/Name_domain/*')
 
 
 # for idx in range(0, 43):
