@@ -14,19 +14,19 @@ MAP_LAW = {
 }
 
 
-with open('/mnt/ngoclt/Crawl_data/list_answer.txt', 'r') as output:
+with open('/mnt/tuannb/Crawl_data/list_answer.txt', 'r') as output:
     list_word_answer = output.read().split('\n')
 
-with open('/mnt/ngoclt/Crawl_data/list_pps.txt', 'r') as output:
+with open('/mnt/tuannb/Crawl_data/list_pps.txt', 'r') as output:
     list_word_pps = output.read().split('\n')
 
-with open('/mnt/ngoclt/Crawl_data/list_image.txt', 'r') as output:
+with open('/mnt/tuannb/Crawl_data/list_image.txt', 'r') as output:
     list_word_image = output.read().split('\n')
 
-with open('/mnt/ngoclt/Crawl_data/Remove/remove_answer.txt', 'r') as output:
+with open('/mnt/tuannb/Crawl_data/Remove/remove_answer.txt', 'r') as output:
     list_remove_answer = output.read().split('\n')
 
-with open('/mnt/ngoclt/Crawl_data/remove_data.txt', 'r') as output:
+with open('/mnt/tuannb/Crawl_data/remove_data.txt', 'r') as output:
     list_remove_data = output.read().split('\n')
 
 def get_link_crawl(name_domain, start_page, end_page, path_folder):
@@ -63,7 +63,7 @@ def create_folder(list_domain):
     for domain in list_domain:
         last_name = domain.split('/')[-1].replace('-' , ' ')
         print(last_name)
-        os.mkdir('/mnt/ngoclt/Crawl_data/Name_domain/' + last_name)
+        os.mkdir('/mnt/tuannb/Crawl_data/Name_domain/' + last_name)
     pass
         
     
