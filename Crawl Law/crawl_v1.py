@@ -5,10 +5,10 @@ import os
 import json
 
 
-# path_file = glob('/mnt/ngoclt/Crawl_data/Split Phap Luat/*/data_domain.json')
+# path_file = glob('/mnt/tuannb/Crawl_data/Split Phap Luat/*/data_domain.json')
 
 # # for idx in range(0, 9):
-# with open('/mnt/ngoclt/Crawl_data/Split Phap Luat/dau tu/data_domain.json', 'r') as f:
+# with open('/mnt/tuannb/Crawl_data/Split Phap Luat/dau tu/data_domain.json', 'r') as f:
 #     data = json.load(f)
 
 # new_data = []
@@ -40,7 +40,7 @@ import json
 #         'reference': samples,
 #     })
 
-# with open('/mnt/ngoclt/Crawl_data/Split Phap Luat/dau tu/data_domain_v2.json', 'w', encoding='utf-8') as f:
+# with open('/mnt/tuannb/Crawl_data/Split Phap Luat/dau tu/data_domain_v2.json', 'w', encoding='utf-8') as f:
 #     json.dump(new_data, f, ensure_ascii=False)
 
 
@@ -50,7 +50,7 @@ import json
 from tqdm import tqdm
 
 new_data = []
-train = json.load(open('/mnt/ngoclt/Data/Data_Law/test_pseudo.json', 'r'))
+train = json.load(open('/mnt/tuannb/Data/Data_Law/test_pseudo.json', 'r'))
 
 
 
@@ -63,13 +63,13 @@ for item in tqdm(train):
             'reference': [get_infor_vbpl(itm) for itm in item['reference']]
 
         })    
-        # json.dump(new_data, open('/mnt/ngoclt/Data/Data_Law/have_refer.json', 'w', encoding='utf-8'), ensure_ascii=False)
+        # json.dump(new_data, open('/mnt/tuannb/Data/Data_Law/have_refer.json', 'w', encoding='utf-8'), ensure_ascii=False)
     except:
         continue
     
 
     
-json.dump(new_data, open('/mnt/ngoclt/Data/Data_Law/have_refer.json', 'w', encoding='utf-8'), ensure_ascii=False)
+json.dump(new_data, open('/mnt/tuannb/Data/Data_Law/have_refer.json', 'w', encoding='utf-8'), ensure_ascii=False)
 
 
 
@@ -94,7 +94,7 @@ json.dump(new_data, open('/mnt/ngoclt/Data/Data_Law/have_refer.json', 'w', encod
 
 
 
-# list_folder = glob('/mnt/ngoclt/Crawl_data/Name_domain/*')
+# list_folder = glob('/mnt/tuannb/Crawl_data/Name_domain/*')
 
 
 # for idx in range(0, 43):
